@@ -1,1 +1,2 @@
-## Git Javascript Borbala Mester
+## Git Javascript
+ Borbala Mester
